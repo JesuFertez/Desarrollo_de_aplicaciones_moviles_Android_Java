@@ -1,0 +1,7 @@
+Comentarios Sábado 10 de Julio.
+	Me ha costado un poco a lo largo de la semana acostumbrarme a la interfaz del
+programa, la sintaxis y las herramientas son un poco distintas a lo que hemos visto
+anteriormente, pero de a poco me he ido familiarizando con ellas, he logrado incorporar
+herramientas que ya conocía anteriormente en la elavoración de mis “proyectos” como
+crear nuevos botones en illustrartor (AI) o modificar los fondos para mis Apps en
+Photoshop (PS) todo para complementar el diseño en la App.
